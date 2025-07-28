@@ -36,12 +36,10 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <a href="https://velog.io/@seungjae223/posts](https://www.notion.so/21c4efbcd944800eafd4e858016265f7?source=copy_link">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/slack-20232a?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
   <div align="center">
   <img src="https://img.shields.io/badge/eclipse ide-2C2C32.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
