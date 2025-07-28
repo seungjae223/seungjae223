@@ -41,7 +41,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/slack-20232a?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/eclipse ide-2C2C32.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbs
+    <img src="https://img.shields.io/badge/eclipse ide-2C2C32.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
