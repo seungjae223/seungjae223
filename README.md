@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/iyeojae/iyeojae/blob/main/102_shop1_613400.gif" />
+  <img src="https://github.com/seungjae223/seungjae223/blob/main/102_shop1_613400.gif" />
 </div>
 <!--타이틀 부분-->
 <div align="center">
