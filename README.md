@@ -18,16 +18,6 @@
   <img src="https://img.shields.io/badge/my sql-3578E5?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white%22" />&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Spring Security-11557c?style=for-the-badge&logo=SpringSecurity&logoColor=white" />&nbsp
-</div>
-
-<br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -53,7 +43,6 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/intellij idea-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/eclipse ide-2C2C32.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
 </div>
 
@@ -61,15 +50,15 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@iyeojae1/">
+  <a href="https://velog.io/@seungjae223/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="https://www.instagram.com/iyeojae1/">
+  <a href="https://www.instagram.com/tmdwo_._223/">
     <img src="https://img.shields.io/badge/instagram-FF4154?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:iyeojae1@gmail.com">
+  <a href="mailto:joyfull0223@gmail.com">
     <img
-      src="https://img.shields.io/badge/iyeojae1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/joyfull0223@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
@@ -81,10 +70,3 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iyeojae/iyeojae/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iyeojae/iyeojae/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iyeojae/iyeojae/output/pacman-contribution-graph.svg">
-</picture>
-
-###
