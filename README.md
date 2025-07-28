@@ -72,12 +72,6 @@
     </tr>
   </table>
 </p>
-## 🕹️ Pacman 기여 그래프
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seungjae223/pacman-contribution-graph/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seungjae223/pacman-contribution-graph/output/pacman-contribution-graph.svg" />
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/seungjae223/pacman-contribution-graph/output/pacman-contribution-graph.svg" />
-</picture>
 
 
