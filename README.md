@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <a href="https://velog.io/@seungjae223/posts](https://www.notion.so/21c4efbcd944800eafd4e858016265f7?source=copy_link">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />&nbsp
 </div>
 
@@ -61,19 +62,18 @@
   </a>
 </div>
 
-## 🧩 GitHub Contributions Animation
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaemin-devlog/jaemin-devlog/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaemin-devlog/jaemin-devlog/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jaemin-devlog/jaemin-devlog/output/pacman-contribution-graph.svg">
-</picture>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jaemin-devlog/jaemin-devlog/output/snake.svg" alt="Snake animation" />
-
-
-###
-
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>📊 Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjae223&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+      <td align="center">
+        <h3>📈 GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=seungjae223&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</p>
 
