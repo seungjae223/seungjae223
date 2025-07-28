@@ -3,7 +3,7 @@
 </div>
 <!--타이틀 부분-->
 <div align="center">
- ![](./Walk.gif)
+<>img src="Walk.gif">
 
 </div>
 
