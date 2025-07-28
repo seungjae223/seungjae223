@@ -3,7 +3,7 @@
 </div>
 <!--타이틀 부분-->
 <div align="center">
-  (./walk.gif)
+  (./Walk.gif)
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
