@@ -3,7 +3,7 @@
 </div>
 <!--타이틀 부분-->
 <div align="center">
-<img src="Jerry.gif">
+<img src="Tom.gif">
 
 </div>
 
