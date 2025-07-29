@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src= "https://img.shields.io/badge/Java-00000?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C++-FBC02D?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp
   
@@ -25,7 +25,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Javascript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS-181717?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
 </div>
 
