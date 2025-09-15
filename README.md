@@ -10,7 +10,6 @@
 
 <h3 align="left">SNS</h3>
 ###
-###
 
 <div align="left">
   <a href="https://www.instagram.com/tmdwo_._223" target="_blank">
@@ -45,9 +44,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seungjae223/Seungjae223/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seungjae223/Seungjae223/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Seungjae223/Seungjae223/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seungjae223/seungjae223/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seungjae223/seungjae223/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Seungjae223/seungjae223/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
