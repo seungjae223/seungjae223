@@ -10,7 +10,6 @@
     </div>
   </div> 
 </div>
-
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
   <div style="margin: 0 auto; text-align: center;" align= "center"> 
@@ -48,4 +47,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=seungjae223&bg_color=180,000000,&title_color=000000&text_color=000000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjae223&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
   </div> 
+</div>
+<div align="center">
+  <img src="https://github.com/seungjae223/seungjae223/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
