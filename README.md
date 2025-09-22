@@ -33,4 +33,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjae223&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+    ![Snake animation](https://github.com/seungjae223/seungjae223/blob/output/github-contribution-grid-snake.svg)
+
     
