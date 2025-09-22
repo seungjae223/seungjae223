@@ -12,11 +12,6 @@
 </div>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐍 Snake Game </h2> <br>
-  <img src="https://github.com/seungjae223/seungjae223/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
   <div style="margin: 0 auto; text-align: center;" align= "center"> 
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
