@@ -105,6 +105,16 @@ API 연동과 인증 상태 관리, 비동기 요청·오류 처리를 다루며
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seungjae223/seungjae223/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seungjae223/seungjae223/output/github-contribution-grid-snake.svg" />
+  <img alt="seungjae223의 GitHub 기여 기록을 따라 움직이는 뱀 애니메이션" src="https://raw.githubusercontent.com/seungjae223/seungjae223/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+---
+
 <details>
 <summary>GitHub Activity</summary>
 
