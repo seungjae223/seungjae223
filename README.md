@@ -15,7 +15,11 @@ API 연동과 인증 상태 관리, 비동기 요청·오류 처리를 다루며
 
 ### 01. 너만 오면 GO
 
-장소 탐색, 여행 일정 구성, 지도 확인과 일정 저장을 연결한 여행 계획 웹서비스의 프론트엔드 프로젝트입니다.
+**프로젝트 소개**
+
+장소를 탐색하고 여행 일정을 구성해, 지도에서 확인하고 저장할 수 있는 여행 계획 웹서비스입니다.
+
+**참여 영역:** 프론트엔드 · 일정 조회·삭제 · 지도 연동
 
 ![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Axios](https://img.shields.io/badge/Axios-0F172A?style=flat-square&logo=axios&logoColor=A78BFA)
@@ -35,7 +39,11 @@ API 연동과 인증 상태 관리, 비동기 요청·오류 처리를 다루며
 
 ### 02. MalGo
 
-상황과 관계를 고려한 대화·번역 흐름을 제공하는 AI 문화 번역 서비스의 프론트엔드 프로젝트입니다.
+**프로젝트 소개**
+
+대화 상황과 상대방과의 관계를 고려한 대화·번역 흐름을 제공하는 AI 문화 번역 서비스입니다.
+
+**참여 영역:** 프론트엔드 · 로그인 상태 관리 · API 연동·테스트
 
 ![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Fetch API](https://img.shields.io/badge/Fetch_API-0F172A?style=flat-square)
@@ -55,7 +63,11 @@ API 연동과 인증 상태 관리, 비동기 요청·오류 처리를 다루며
 
 ### 03. 서산 이슈
 
-지역 정보를 탐색하는 서비스에서 메인 화면과 탐색 기능 개발에 참여한 팀 프로젝트입니다.
+**프로젝트 소개**
+
+서산의 지역 정보를 카테고리별로 탐색하고, 날씨와 소식을 확인할 수 있는 웹서비스입니다.
+
+**참여 영역:** 팀 프로젝트의 메인 화면 · 탐색 기능 · 날씨 API 응답 변환
 
 ![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
