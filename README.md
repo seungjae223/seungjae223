@@ -1,4 +1,4 @@
-![seungjae223 · Frontend Development — 네이비 배경의 프론트엔드 개발자 프로필 배너](assets/profile-banner.svg)
+
 
 # seungjae223
 
